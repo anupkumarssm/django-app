@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.venv/
+ENV/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python packaging
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Other common ignores
+.DS_Store
+*.sqlite3
+*.pyc
+.env
+.env/
